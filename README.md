@@ -3,3 +3,5 @@
 ![User interface](assets/Headshot.png)
 
 Omar Rodriguez-Bernal is a student of the class
+
+![User interface](journal.md)
