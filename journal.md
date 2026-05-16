@@ -1,6 +1,6 @@
 ## My Experience with my GE Oven
 # My Goal
-I had returned home from my studies hungry and had some chicken breasts thawed. I wanted to make baked chicken breasts, but knew that I could not attend to my oven while showering. I saw that the oven had a timer option and wanted to use it instead of attending to my oven.
+I returned home from my studies feeling hungry and had prepared some chicken breasts thawed beforehand. I wanted to make baked chicken breasts, but knew that I could not monitor my oven while showering. I saw that the oven had a timer option and wanted to use it instead of attending to my oven.
 ![User interface](assets/IMG_0299.png)
 
 # Attempt at accomplishing my goal
@@ -12,4 +12,4 @@ I then assumed that altering the time altered the number of minutes the oven was
 I then pressed start, and by the time that I finished my shower, the oven had turned off.
 
 # Notes on attempt / Improvements
-I felt that the control pannel had provided sufficient **feedback** given my inputs. After entering the time I wanted, the bake option started flashing, implying that I still had input to enter before the oven started. Seeing the PRE option after selecting my temerature and then the start button ensured that I had started the oven. The **affordances** of the control pannel were extremely useful in getting me started with the timer. I did not even have to look up how to set the timer as the menu options were clearly labeled in their function, and the flashing lights had also served to guide me with my next action.
+I felt that the control panel had provided sufficient **feedback** given my inputs. After entering the desired time, the bake option started flashing, implying that additional inputs were still required. Seeing the PRE option after selecting my temperature and then the start button ensured that I had started the oven. The **affordances** of the control pannel were extremely useful in getting me started with the timer. I did not even have to look up how to set the timer as the menu options were clearly labeled in their function, and the flashing lights had also served to guide me with my next action.
